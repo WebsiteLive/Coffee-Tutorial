@@ -46,6 +46,9 @@ h1{
 	color: #fff; 
 	float: right;
 }
+.row{
+	float: right;
+}
 .center{
 	display: block;
     margin-left: auto;
