@@ -1,0 +1,11 @@
+.container{
+	background-color: transparent;
+	border-radius: 10px; 
+	border: solid 2px #D3D3D3; /*light gray*/
+	margin-top: 15px;
+	padding: 5px;
+	font-weight: bold;
+}
+body{
+	padding-bottom: 50px;
+}
